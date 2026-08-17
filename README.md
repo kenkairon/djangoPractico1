@@ -86,6 +86,11 @@ LANGUAGE_CODE = 'es-cl'   # antes: 'en-us'
 
 TIME_ZONE = 'America/Santiago'   # antes: 'UTC'
 ```
+```bash
+python manage.py runsever
+
+```
+![Cambio de Idioma](imagenes/espanol.png)
 
 ## 11. Crear una aplicación dentro del proyecto
 
