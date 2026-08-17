@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```bash
 D:\pythonProyect\Django\2023>django-admin startproject ejemploApp .
 ```
-(imagenes)[!imagenes/punto.png]
+[imagenes](!imagenes/punto.png)
 
 Esto genera automáticamente la carpeta del proyecto `ejemploApp`.
 
@@ -156,11 +156,11 @@ Con el servidor corriendo (`python manage.py runserver`), visitar en el navegado
 
 - `http://127.0.0.1:8000/primera/` → muestra el mensaje de bienvenida de la app.
 
-(primera)[!imagenes/primera.png]
+![primera](!imagenes/primera.png)
 
 - `http://127.0.0.1:8000/ahora/` → muestra la fecha y hora actual, por ejemplo:
 
-(ahora)[!imagenes/hora.png]
+![ahora](!imagenes/hora.png)
   ```
   Fecha y hora actual: 2023-08-18 15:50:30.700544
   ```
