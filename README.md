@@ -8,7 +8,7 @@ Guía paso a paso para crear y configurar un proyecto Django desde cero, incluye
 - pip actualizado
 - Visual Studio Code (opcional, recomendado)
 
-## 1. Eliminamos las dependencias del instaladas 
+## 1. Creamos un entorno virual y lo activamos
 
 ```bash
 python -m venv venv
